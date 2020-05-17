@@ -1,0 +1,3 @@
+expo in LGBAPP - expo start
+in rest - nodemon app.js
+in anywhere - ngrok http 3000
