@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5dc66acedcaa1609e09867cd"},"name":"Flat Rate Env","price":{"$numberDouble":"6.95"},"createdAt":{"$date":{"$numberLong":"1573284558070"}},"updatedAt":{"$date":{"$numberLong":"1573284558070"}},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5dc66afadcaa1609e09867ce"},"name":"Padded Flat Rate Env","price":{"$numberDouble":"7.55"},"createdAt":{"$date":{"$numberLong":"1573284602048"}},"updatedAt":{"$date":{"$numberLong":"1573284602048"}},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5dc66b18dcaa1609e09867cf"},"name":"Small Flat Rate Box","price":{"$numberDouble":"7.5"},"createdAt":{"$date":{"$numberLong":"1573284632447"}},"updatedAt":{"$date":{"$numberLong":"1573284632447"}},"__v":{"$numberInt":"0"}}

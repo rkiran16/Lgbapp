@@ -1,0 +1,1 @@
+mongoimport --uri "mongodb+srv://lgb:MhxB65BuqhRrsa7X@cluster0-ercpn.mongodb.net/test" --collection cocategories --drop --file cocategories.json
