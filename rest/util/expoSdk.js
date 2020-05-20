@@ -17,7 +17,7 @@ module.exports = {
                 to: pushToken.notificationtoken,
                 title: title,
                 subtitle: subtitle,
-                icon: 'http://a68e0cb6.ngrok.io/uploads/icon.png',
+                icon: 'http://1611917f.ngrok.io/uploads/icon.png',
                 sound: 'default',
                 _displayInForeground: true,
                 priority: 'high',

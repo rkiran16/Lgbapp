@@ -74,7 +74,6 @@ app.use((error, req, res, next) => {
   res.status(status).json({ message: message, data: data });
 });
 
-
 mongoose
   .connect(
     mongoConnect.dbskey,{useNewUrlParser: true, autoIndex: false }

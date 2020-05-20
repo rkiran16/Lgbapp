@@ -1,9 +1,9 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 4754,
-  "expoServerNgrokUrl": "https://db-hdy.kiranoct16.lgbapp.exp.direct",
-  "packagerNgrokUrl": "https://packager.db-hdy.kiranoct16.lgbapp.exp.direct",
-  "ngrokPid": 4765
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null
 }

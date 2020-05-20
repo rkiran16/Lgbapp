@@ -26,7 +26,7 @@ module.exports = class WebData {
   }
 
   save() {
-    return fetch('http://a68e0cb6.ngrok.io/admin/postwebrequest', {
+    return fetch('http://1611917f.ngrok.io/admin/postwebrequest', {
      method: 'POST',
      headers: {
        'Content-Type': 'application/json'

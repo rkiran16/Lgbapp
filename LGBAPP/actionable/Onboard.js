@@ -1,6 +1,6 @@
 import { AsyncStorage } from 'react-native'
 
-export const dbUrl = 'http://87333bc7.ngrok.io';
+export const dbUrl = 'http://1611917f.ngrok.io';
 
 export const dbSubmitUrl = async(url, formData) => {
     // console.log(formData)
@@ -60,7 +60,7 @@ export const dbSubmitUrl = async(url, formData) => {
 }
 
 export const postURL = (data, body) => {
-    return fetch(`${dbUrl}${data}`,{
+    return fetch(`${dbUrl}/${data}`,{
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
