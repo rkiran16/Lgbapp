@@ -27,7 +27,7 @@
     "firebase": "^7.14.3",
     "galio-framework": "^0.5.4",
     "geocode": "0.0.3",
-    "moment": "^2.25.3",
+    "moment": "^2.29.4",
     "node-emoji": "^1.10.0",
     "prop-types": "^15.7.2",
     "react": "16.8.3",
